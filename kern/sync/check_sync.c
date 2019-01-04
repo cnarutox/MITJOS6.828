@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <proc.h>
 #include <sem.h>
-#include <monitor.h>
 #include <assert.h>
 
 #define N 10
